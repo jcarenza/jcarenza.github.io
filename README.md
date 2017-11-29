@@ -1,14 +1,14 @@
-## Start Develop Environment (Hot Module Reloading)
+### Start Develop Environment
 ```
 yarn start
 ```
 
-## Run Production Build Locally
+### Run Production Build Locally
 ```
 yarn preview
 ```
 
-## Deploy
+### Deploy
 ```
 yarn deploy
 ```
